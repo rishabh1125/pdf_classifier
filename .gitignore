@@ -1,0 +1,5 @@
+# Virtualenv directory
+.venv
+
+# Notebooks used for testing/ 
+dataset.ipynb
