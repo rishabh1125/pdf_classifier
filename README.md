@@ -9,6 +9,7 @@ This project is a Streamlit app that allows users to input a link to a PDF docum
   - `__init__.py`: The main implementation of the PDF classifier using DistilBert.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `.gitattributes`: Configures Git LFS for large files.
+- `parspec-classificaiton.ipynb` : This is model finetuning code, (this is run on kaggle for gpu and not in this program). 
 
 ## Steps to Replicate the Project
 1. **Clone the Repository**: 
