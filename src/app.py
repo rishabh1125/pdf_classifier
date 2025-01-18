@@ -24,5 +24,3 @@ if pdf_url:
         prediction = pd.DataFrame(prediction, columns=['product', 'confidence (in %)'])
         # Visualize the results with a bar chart
         st.bar_chart(prediction, x='product', y='confidence (in %)')
-    else:
-        st.warning("")
